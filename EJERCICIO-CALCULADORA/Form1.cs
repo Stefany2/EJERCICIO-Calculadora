@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace EJERCICIO_CALCULADORA
 {
-    public partial class Form1 : Form
+    public partial class SENATI : Form
     {
         private double valor1;
         private double valor2;
@@ -18,7 +18,7 @@ namespace EJERCICIO_CALCULADORA
         private double resultado;
 
         private int operacion;
-        public Form1()
+        public SENATI()
         {
             InitializeComponent();
         }
@@ -159,5 +159,10 @@ namespace EJERCICIO_CALCULADORA
         {
         
     }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

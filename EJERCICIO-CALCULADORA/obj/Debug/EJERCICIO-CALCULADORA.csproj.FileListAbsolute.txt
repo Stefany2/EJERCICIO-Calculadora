@@ -12,9 +12,9 @@ C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\bin\Debug\EJ
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\bin\Debug\EJERCICIO-CALCULADORA.exe
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\bin\Debug\EJERCICIO-CALCULADORA.pdb
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO-CALCULADORA.csproj.AssemblyReference.cache
-C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO_CALCULADORA.Form1.resources
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO_CALCULADORA.Properties.Resources.resources
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO-CALCULADORA.csproj.GenerateResource.cache
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO-CALCULADORA.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO-CALCULADORA.exe
 C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO-CALCULADORA.pdb
+C:\Users\Alumno\Desktop\EJERCICIO-Calculadora\EJERCICIO-CALCULADORA\obj\Debug\EJERCICIO_CALCULADORA.SENATI.resources

@@ -24,6 +24,10 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "senati.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [225x225, 24 bits, JPG]",
@@ -34,10 +38,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-03-13T15:55:30.743Z",
               "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [225x225, 24 bits, JPG]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -59,7 +59,7 @@
               "RelativeDocumentMoniker": "EJERCICIO-CALCULADORA\\Form1.cs",
               "ToolTip": "C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\EJERCICIO-CALCULADORA\\Form1.cs",
               "RelativeToolTip": "EJERCICIO-CALCULADORA\\Form1.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAmwEkAAAAMAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T05:37:49.963Z",
               "EditorCaption": ""
