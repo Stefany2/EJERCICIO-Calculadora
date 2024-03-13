@@ -45,7 +45,12 @@ namespace EJERCICIO_CALCULADORA
         {
             // boton igual
             valor2 = Convert.ToDouble(tbDisplay.Text);
-
+            // Verificar si el divisor es cero
+            if (operacion == 4 && valor2 == 0)
+            {
+                MessageBox.Show("No se puede dividir entre cero.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return; // Salir de la función sin realizar la división
+            }
             switch (operacion)
             {
                 case 1:
@@ -149,5 +154,10 @@ namespace EJERCICIO_CALCULADORA
             // boton de limpiar 
             tbDisplay.Text = "";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        
+    }
     }
 }

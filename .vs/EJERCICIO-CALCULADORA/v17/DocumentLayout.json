@@ -1,14 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\EJERCICIO-CALCULADORA\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{157ACE35-92B8-4296-93C3-7AB0B269CCEA}|EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA.csproj|c:\\users\\user\\documents\\ejercicio-calculadora\\ejercicio-calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{157ACE35-92B8-4296-93C3-7AB0B269CCEA}|EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA.csproj|c:\\users\\alumno\\desktop\\ejercicio-calculadora\\ejercicio-calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{157ACE35-92B8-4296-93C3-7AB0B269CCEA}|EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA.csproj|solutionrelative:ejercicio-calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157ACE35-92B8-4296-93C3-7AB0B269CCEA}|EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA.csproj|c:\\users\\user\\documents\\ejercicio-calculadora\\ejercicio-calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{157ACE35-92B8-4296-93C3-7AB0B269CCEA}|EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA.csproj|C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\ejercicio-calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157ACE35-92B8-4296-93C3-7AB0B269CCEA}|EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA.csproj|solutionrelative:ejercicio-calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumno\\Desktop\\senati.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +21,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA\\Form1.cs",
-              "RelativeDocumentMoniker": "EJERCICIO-CALCULADORA\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA\\Form1.cs",
-              "RelativeToolTip": "EJERCICIO-CALCULADORA\\Form1.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAQwIwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T05:37:49.963Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "senati.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [225x225, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\senati.jpg",
+              "RelativeDocumentMoniker": "..\\senati.jpg",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\senati.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [225x225, 24 bits, JPG]",
+              "RelativeToolTip": "..\\senati.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [225x225, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T15:55:30.743Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [225x225, 24 bits, JPG]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\EJERCICIO-CALCULADORA\\Form1.cs",
               "RelativeDocumentMoniker": "EJERCICIO-CALCULADORA\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\EJERCICIO-CALCULADORA\\EJERCICIO-CALCULADORA\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\EJERCICIO-CALCULADORA\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "EJERCICIO-CALCULADORA\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T05:35:41.86Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\EJERCICIO-CALCULADORA\\Form1.cs",
+              "RelativeDocumentMoniker": "EJERCICIO-CALCULADORA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\EJERCICIO-Calculadora\\EJERCICIO-CALCULADORA\\Form1.cs",
+              "RelativeToolTip": "EJERCICIO-CALCULADORA\\Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:37:49.963Z",
+              "EditorCaption": ""
             }
           ]
         }
